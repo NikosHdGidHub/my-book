@@ -1,0 +1,37 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.rulers": [80],
+
+  "explorer.sortOrder": "default",
+  "explorer.compactFolders": false,
+
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.wordBasedSuggestions": "off",
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.exclude": {
+    "**/.gitkeep": true
+  },
+  
+    "cSpell.language": "en,ru",
+    "cSpell.words": [
+        "Автосохранение",
+        "миникарту",
+        "табы"
+    ]
+
+}
